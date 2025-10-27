@@ -40,8 +40,28 @@ To run this project successfully, ensure you have:
   - `cryptography`
   - `Pillow`
 
-Install dependencies using:
+
+
+---
+
+### Install dependencies using:
 ```bash
 pip install cryptography pillow
+```
+
+---
+
+### Credits
+This project was developed as part of my Cybersecurity Internship at **APSSDC**, focusing on practical applications of **Steganography** for secure data hiding and retrieval.
+
+---
+
+### Author
+**Satya Upendra Samana**  
+Cybersecurity Enthusiast | Python Developer  
+GitHub: [satyaupendrasamana](https://github.com/satyaupendrasamana)
+
+---
+
 
 
