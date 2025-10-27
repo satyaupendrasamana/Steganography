@@ -36,3 +36,4 @@ output_image_path = r"C:\Users\AJAY KUMAR\Downloads\New folder\output_image.jpg"
 text = "My name is shashi samana"
 
 encode_text_in_image(image_path, output_image_path, text)
+
